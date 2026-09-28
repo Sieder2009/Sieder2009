@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Sieder – Ironpeak"/>
+<img src="./header.svg" width="100%" alt="Sieder – Ironpeak"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=24&duration=2600&pause=900&color=FFB347&center=true&vCenter=true&width=640&height=44&lines=Flutter-Apps+f%C3%BCrs+Training;Jeder+Satz+z%C3%A4hlt.+Jeder+Commit+auch.;Vom+Tal+bis+zum+Gipfel+%E2%9B%B0%EF%B8%8F" alt="Typing SVG"/>
@@ -28,12 +28,8 @@ $ ironpeak --heute
 
 <div align="center">
 
-<a href="https://github.com/Sieder2009/GymTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sieder2009&repo=GymTracker&bg_color=10142b&title_color=ffb347&text_color=f2efe8&icon_color=ff5e3a&border_color=3b3570&border_radius=10" alt="Ironpeak Fitness"/>
-</a>
-<a href="https://github.com/Sieder2009/HOME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sieder2009&repo=HOME&bg_color=10142b&title_color=ffb347&text_color=f2efe8&icon_color=ff5e3a&border_color=3b3570&border_radius=10" alt="GYM STATS"/>
-</a>
+<a href="https://github.com/Sieder2009/GymTracker"><img src="./ironpeak-card.svg" width="420" alt="Ironpeak Fitness"/></a>
+<a href="https://github.com/Sieder2009/HOME"><img src="./gymstats-card.svg" width="420" alt="GYM STATS"/></a>
 
 </div>
 
@@ -59,4 +55,4 @@ $ ironpeak --heute
   <img src="https://raw.githubusercontent.com/Sieder2009/Sieder2009/output/snake.svg" width="100%" alt="Snake frisst meine Contributions"/>
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt=""/>
+<img src="./footer.svg" width="100%" alt=""/>
