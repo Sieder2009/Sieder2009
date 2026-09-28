@@ -45,8 +45,6 @@ $ ironpeak --heute
 
 <img src="https://streak-stats.demolab.com?user=Sieder2009&background=10142b&ring=ff5e3a&fire=ffb347&currStreakLabel=ffb347&sideLabels=f2efe8&currStreakNum=f2efe8&sideNums=f2efe8&dates=8a9bb5&stroke=3b3570&border=3b3570&border_radius=10" width="80%" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sieder2009&bg_color=10142b&color=f2efe8&line=ff5e3a&point=ffb347&area=true&area_color=ff5e3a&hide_border=true&radius=10&custom_title=Aufstieg%20der%20letzten%2030%20Tage" width="100%" alt="Aktivität"/>
-
 </div>
 
 <h2 align="center">🐍 Gipfelroute</h2>
