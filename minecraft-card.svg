@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 170" width="420" height="170">
+  <style>.m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.live{animation:pulse 1.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.live{animation:none}}</style>
+  <rect x="1" y="1" width="418" height="168" rx="12" fill="#141b2d" stroke="#26314f" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="168" rx="3" fill="#c3e88d"/>
+  <text x="26" y="36" class="m" font-size="13" fill="#7d8bb0">Sieder2009/mc</text>
+  <rect x="338" y="18" width="62" height="24" rx="12" fill="#1a2340" stroke="#26314f"/>
+  <circle class="live" cx="353" cy="30" r="4" fill="#c3e88d"/>
+  <text x="363" y="35" class="m" font-size="12" font-weight="700" fill="#c3e88d">LIVE</text>
+  <text x="26" y="72" class="s" font-size="24" font-weight="700" fill="#e6ebff">Minecraft-Portfolio</text>
+  <text x="26" y="102" class="s" font-size="15" fill="#aab4d4">Welt, Skin, Bauwerke &amp; Modrinth-Projekte</text>
+  <circle cx="32" cy="142" r="6" fill="#f1e05a"/>
+  <text x="46" y="147" class="s" font-size="14" fill="#c8d1f0">JavaScript</text>
+  <text x="394" y="147" class="m" font-size="13" fill="#4a5578" text-anchor="end">#minecraft #web</text>
+</svg>
