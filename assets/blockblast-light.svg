@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 176" width="416" height="176" role="img" aria-labelledby="t">
+  <title id="t">BlockBlast – Block-Puzzle mit Drag &amp; Drop und Rekord</title>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <defs>
+    <radialGradient id="glow" cx="410" cy="6" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="404" height="164" rx="12" fill="#ffffff"/>
+  <rect x="6" y="6" width="404" height="164" rx="12" fill="url(#glow)"/>
+  <rect x="6.5" y="6.5" width="403" height="163" rx="11.5" fill="none" stroke="#d1d9e0"/>
+  <rect x="26" y="26" width="44" height="44" rx="11" fill="#8b5cf6"/>
+  <g transform="translate(36 36) scale(1)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2"/><rect width="8" height="8" x="14" y="2" rx="1"/></g>
+  <text x="84" y="45" font-size="18" font-weight="600" fill="#1f2328">BlockBlast</text>
+  <text x="84" y="65" class="mono" font-size="12.5" fill="#59636e">Sieder2009/BlockBlast</text>
+  <g transform="translate(370 28) scale(0.75)" fill="none" stroke="#59636e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17L17 7"/></g>
+  <text x="26" y="108" font-size="15" fill="#3d444d">Block-Puzzle mit Drag &amp; Drop und Rekord</text>
+  <circle cx="31" cy="145" r="5" fill="#00b4ab"/>
+  <text x="42" y="150" font-size="13" fill="#59636e">Dart · Flutter</text>
+  <text x="390" y="150" font-size="13" fill="#59636e" text-anchor="end">Android · Web · Windows</text>
+</svg>

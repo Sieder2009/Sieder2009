@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 250" width="846" height="250" role="img" aria-labelledby="t">
+  <title id="t">Sieder – Flutter- &amp; Web-Entwickler. Aktuell: Ironpeak Fitness</title>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+    .a{animation:a 17s ease-in-out infinite}
+    .b{animation:b 21s ease-in-out infinite}
+    .c{animation:c 25s ease-in-out infinite}
+    .float{animation:float 6s ease-in-out infinite}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s cubic-bezier(0,0,.2,1) infinite}
+    @keyframes a{50%{transform:translate(-40px,26px)}}
+    @keyframes b{50%{transform:translate(-56px,-18px)}}
+    @keyframes c{50%{transform:translate(48px,-28px)}}
+    @keyframes float{50%{transform:translateY(-7px)}}
+    @keyframes ping{0%{transform:scale(1);opacity:.7}80%,100%{transform:scale(2.8);opacity:0}}
+    @media (prefers-reduced-motion:reduce){.a,.b,.c,.float,.ping{animation:none}.ping{opacity:0}}
+  </style>
+  <defs>
+    <clipPath id="clip"><rect x="11" y="6" width="824" height="238" rx="16"/></clipPath>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.14"/>
+    </filter>
+    <radialGradient id="g0">
+      <stop offset="0" stop-color="#1fa76a" stop-opacity="0.36"/>
+      <stop offset=".45" stop-color="#1fa76a" stop-opacity="0.162"/>
+      <stop offset="1" stop-color="#1fa76a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g1">
+      <stop offset="0" stop-color="#2f9bb8" stop-opacity="0.36"/>
+      <stop offset=".45" stop-color="#2f9bb8" stop-opacity="0.162"/>
+      <stop offset="1" stop-color="#2f9bb8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.36"/>
+      <stop offset=".45" stop-color="#8b5cf6" stop-opacity="0.162"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1.1" fill="#1f2328" fill-opacity="0.13"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset=".3" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="mask"><rect width="846" height="250" fill="url(#fade)"/></mask>
+  </defs>
+  <rect x="11" y="6" width="824" height="238" rx="16" fill="#ffffff"/>
+  <g clip-path="url(#clip)">
+    <circle class="a" cx="700" cy="40" r="250" fill="url(#g0)"/>
+    <circle class="b" cx="820" cy="230" r="210" fill="url(#g1)"/>
+    <circle class="c" cx="545" cy="260" r="220" fill="url(#g2)"/>
+    <rect width="846" height="250" fill="url(#dots)" mask="url(#mask)"/>
+    <g class="float" style="animation-delay:-0s">
+      <g transform="translate(594 48) rotate(-8 35 35)" filter="url(#shadow)">
+        <rect width="70" height="70" rx="18.2" fill="#1fa76a"/>
+        <rect x=".5" y=".5" width="69" height="69" rx="18.2" fill="none" stroke="#fff" stroke-opacity=".22"/>
+        <g transform="translate(16.099999999999998 16.099999999999998) scale(1.5750000000000002)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m8 3l4 8l5-5l5 15H2z"/><path d="M4.14 15.08q3.93-2.355 7.86.42c2.74 1.94 5.49 2 8.23.19"/></g>
+      </g>
+    </g>
+    <g class="float" style="animation-delay:-1.3s">
+      <g transform="translate(694 90) rotate(7 29 29)" filter="url(#shadow)">
+        <rect width="58" height="58" rx="15.1" fill="#ff3d1f"/>
+        <rect x=".5" y=".5" width="57" height="57" rx="15.1" fill="none" stroke="#fff" stroke-opacity=".22"/>
+        <g transform="translate(13.34 13.34) scale(1.305)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16m-3-4V9m-5 8V5M8 17v-3"/></g>
+      </g>
+    </g>
+    <g class="float" style="animation-delay:-2.2s">
+      <g transform="translate(616 148) rotate(11 26 26)" filter="url(#shadow)">
+        <rect width="52" height="52" rx="13.5" fill="#8b5cf6"/>
+        <rect x=".5" y=".5" width="51" height="51" rx="13.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+        <g transform="translate(11.959999999999999 11.959999999999999) scale(1.1700000000000002)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2"/><rect width="8" height="8" x="14" y="2" rx="1"/></g>
+      </g>
+    </g>
+    <g class="float" style="animation-delay:-3.1s">
+      <g transform="translate(764 152) rotate(-6 23 23)" filter="url(#shadow)">
+        <rect width="46" height="46" rx="12.0" fill="#2f9bb8"/>
+        <rect x=".5" y=".5" width="45" height="45" rx="12.0" fill="none" stroke="#fff" stroke-opacity=".22"/>
+        <g transform="translate(10.579999999999998 10.579999999999998) scale(1.0350000000000001)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"/><path d="m3.3 7l8.7 5l8.7-5M12 22V12"/></g>
+      </g>
+    </g>
+  </g>
+  <rect x="11.5" y="6.5" width="823" height="237" rx="15.5" fill="none" stroke="#d1d9e0"/>
+  <text x="55" y="99" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Sieder</text>
+  <text x="58" y="139" font-size="22" fill="#59636e">Flutter- &amp; Web-Entwickler</text>
+  <rect x="58.5" y="165.5" width="213" height="31" rx="15.5" fill="#ffffff" fill-opacity=".6" stroke="#d1d9e0"/>
+  <circle cx="77" cy="181" r="4.5" fill="#1fa76a"/>
+  <circle class="ping" cx="77" cy="181" r="4.5" fill="none" stroke="#1fa76a" stroke-width="1.5"/>
+  <text x="91" y="186" font-size="15" fill="#59636e" textLength="164" lengthAdjust="spacingAndGlyphs">Aktuell: <tspan fill="#1f2328" font-weight="600">Ironpeak Fitness</tspan></text>
+</svg>
