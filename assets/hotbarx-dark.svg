@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 176" width="416" height="176" role="img" aria-labelledby="t">
+  <title id="t">HotbarX – Rot-schwarzes GUI-Resourcepack mit Blitzen</title>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <defs>
+    <radialGradient id="glow" cx="410" cy="6" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d42a3c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#d42a3c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="404" height="164" rx="12" fill="#151b23"/>
+  <rect x="6" y="6" width="404" height="164" rx="12" fill="url(#glow)"/>
+  <rect x="6.5" y="6.5" width="403" height="163" rx="11.5" fill="none" stroke="#3d444d"/>
+  <rect x="26" y="26" width="44" height="44" rx="11" fill="#d42a3c"/>
+  <g transform="translate(36 36) scale(1)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></g>
+  <text x="84" y="45" font-size="18" font-weight="600" fill="#f0f6fc">HotbarX</text>
+  <text x="84" y="65" class="mono" font-size="12.5" fill="#9198a1">Sieder2009/HotbarX</text>
+  <g transform="translate(370 28) scale(0.75)" fill="none" stroke="#9198a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17L17 7"/></g>
+  <text x="26" y="108" font-size="15" fill="#c9d1d9">Rot-schwarzes GUI-Resourcepack mit Blitzen</text>
+  <circle cx="31" cy="145" r="5" fill="#b07219"/>
+  <text x="42" y="150" font-size="13" fill="#9198a1">Java · GLSL</text>
+  <text x="390" y="150" font-size="13" fill="#9198a1" text-anchor="end">Minecraft 26.3</text>
+</svg>

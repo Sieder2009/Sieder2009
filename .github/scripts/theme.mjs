@@ -38,10 +38,11 @@ export const THEMES = {
   },
 };
 
-// Die Farben der Projekte – so wie auf ihren Websites
+// Die Farben der Projekte – Kilo im Blau seines App-Icons, HotbarX im Crimson des Packs
 export const COLORS = {
-  ironpeak: '#1fa76a',
-  gymstats: '#ff3d1f',
+  kilo: '#2f6feb',
+  aurora: '#1fa76a',
+  hotbarx: '#d42a3c',
   blockblast: '#8b5cf6',
   minecraft: '#2f9bb8',
 };

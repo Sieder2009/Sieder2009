@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 300" width="416" height="300" role="img" aria-labelledby="t">
+  <title id="t">Kilo – Trainingsplaner &amp; Krafttracker als native App für Android, iOS, Windows, macOS</title>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+  <defs>
+    <radialGradient id="glow" cx="410" cy="6" r="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f6feb" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2f6feb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="404" height="288" rx="12" fill="#151b23"/>
+  <rect x="6" y="6" width="404" height="288" rx="12" fill="url(#glow)"/>
+  <rect x="6.5" y="6.5" width="403" height="287" rx="11.5" fill="none" stroke="#3d444d"/>
+  <rect x="26" y="26" width="50" height="50" rx="12.5" fill="#2f6feb"/>
+  <g transform="translate(37 37) scale(1.1666666666666667)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(12 12) rotate(-45) scale(.86) translate(-12 -12)"><path d="M14.4 14.4 9.6 9.6"/><path d="M18.657 21.485a2 2 0 1 1-2.829-2.828l-1.767 1.768a2 2 0 1 1-2.829-2.829l6.364-6.364a2 2 0 1 1 2.829 2.829l-1.768 1.767a2 2 0 1 1 2.828 2.829z"/><path d="m21.5 21.5-1.4-1.4"/><path d="M3.9 3.9 2.5 2.5"/><path d="M6.404 12.768a2 2 0 1 1-2.829-2.829l1.768-1.767a2 2 0 1 1-2.828-2.829l2.828-2.828a2 2 0 1 1 2.829 2.828l1.767-1.768a2 2 0 1 1 2.829 2.829z"/></g></g>
+  <text x="90" y="50" font-size="24" font-weight="700" letter-spacing="-.4" fill="#f0f6fc">Kilo</text>
+  <text x="90" y="70" class="mono" font-size="12.5" fill="#9198a1">Sieder2009/GymTracker</text>
+  <g transform="translate(370 28) scale(0.75)" fill="none" stroke="#9198a1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10M7 17L17 7"/></g>
+  <text x="26" y="118" font-size="16" fill="#f0f6fc">Trainingsplaner &amp; Krafttracker als native App</text>
+  <g transform="translate(26 147) scale(0.6666666666666666)" fill="none" stroke="#2f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="m9 16 2 2 4-4"/></g>
+  <text x="52" y="160" font-size="14.5" fill="#c9d1d9">Trainingskalender, Tagesplan &amp; Kreatin-Tracker</text>
+  <g transform="translate(26 175) scale(0.6666666666666666)" fill="none" stroke="#2f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></g>
+  <text x="52" y="188" font-size="14.5" fill="#c9d1d9">Ränge, PRs, DOTS und 1RM-Rechner</text>
+  <g transform="translate(26 203) scale(0.6666666666666666)" fill="none" stroke="#2f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></g>
+  <text x="52" y="216" font-size="14.5" fill="#c9d1d9">546 Übungen mit Muskel-Diagrammen</text>
+  <g transform="translate(26 231) scale(0.6666666666666666)" fill="none" stroke="#2f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g>
+  <text x="52" y="244" font-size="14.5" fill="#c9d1d9">Alle Daten bleiben auf dem Gerät, ohne Konto</text>
+  <circle cx="31" cy="269" r="5" fill="#00b4ab"/>
+  <text x="42" y="274" font-size="13" fill="#9198a1">Dart · Flutter</text>
+  <text x="390" y="274" font-size="13" fill="#9198a1" text-anchor="end">Android · iOS · Windows · macOS</text>
+</svg>

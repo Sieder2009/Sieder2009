@@ -18,5 +18,5 @@
   <text x="26" y="108" font-size="15" fill="#3d444d">Block-Puzzle mit Drag &amp; Drop und Rekord</text>
   <circle cx="31" cy="145" r="5" fill="#00b4ab"/>
   <text x="42" y="150" font-size="13" fill="#59636e">Dart · Flutter</text>
-  <text x="390" y="150" font-size="13" fill="#59636e" text-anchor="end">Android · Web · Windows</text>
+  <text x="390" y="150" font-size="13" fill="#59636e" text-anchor="end">Android · Windows</text>
 </svg>
